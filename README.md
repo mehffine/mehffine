@@ -3,8 +3,7 @@
 Here are some quick things about me:
 
 - 🔭 learner.
-- 
-- 爵  <a href = "https://mehffine.carrd.co"> xyz</a>
+- 🕸️  <a href = "https://mehffine.carrd.co"> xyz</a>
 <br>
 <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=p01s0n15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
