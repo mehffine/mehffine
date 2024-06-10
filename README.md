@@ -1,26 +1,39 @@
 <h1 align="center"> Hi there 👋, I am Pratham Gautam</h1>
 
-Here are some quick things about me:
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=p01s0n15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://twitter.com/intent/follow?&screen_name=p01s0n_15"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/p01s0n_15?&logo=twitter&style=social" /></a>
+    <a href="mailto:mehul.gautam13@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-indigo?logo=gmail&style=social" /></a>
+</p>
 
-- 🔭 learner.
-- 🕸️  <a href = "https://mehffine.carrd.co"> xyz</a>
-<br>
-<p align="center" >
-    <img src="https://komarev.com/ghpvc/?username=p01s0n15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <a href="https://twitter.com/intent/follow?&screen_name=p01s0n_15"><img alt="Twitter" src="https://img.shields.io/twitter/follow/p01s0n_15?&logo=twitter" /></a>
-<a href="mehul.gautam13@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-indigo?logo=gmail" /></a>
+<p align="center">
+    <a href="https://mehffine.carrd.co" style="text-decoration: none;">
+        🕸️ <strong>Personal Website</strong>
+    </a>
+</p>
+
+<h3 align="center">Quick Facts</h3>
+<ul>
+    <li>🔭 I am a passionate learner.</li>
+    <li>🕸️ Visit my <a href="https://mehffine.carrd.co">personal website</a>.</li>
+</ul>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p01s0n15&theme=dracula">
 </p>
 <p align="center">
-<img alt="pf-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p01s0n15&theme=dracula">
-
-<img alt="lang-details" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p01s0n15&theme=dracula">
-
-<img alt="com-details" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p01s0n15&theme=dracula">
-
-<img alt="usr-details" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=p01s0n15&theme=dracula">
-
-<img alt="time-details" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=p01s0n15&theme=dracula">
+    <img alt="Repositories Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p01s0n15&theme=dracula">
+    <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p01s0n15&theme=dracula">
+</p>
+<p align="center">
+    <img alt="User Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=p01s0n15&theme=dracula">
+    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=p01s0n15&theme=dracula">
 </p>
 
-[![An image of @p01s0n15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p01s0n15)](https://holopin.io/@p01s0n15)
-
+<h3 align="center">My Holopin Badges</h3>
+<p align="center">
+    <a href="https://holopin.io/@p01s0n15">
+        <img alt="Holopin Badges" src="https://holopin.me/p01s0n15">
+    </a>
+</p>
