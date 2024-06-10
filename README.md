@@ -23,7 +23,7 @@
     <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p01s0n15&theme=dracula">
 </p>
 <p align="center">
-    <img alt="Repositories Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p01s0n15&theme=dracula">
+    <img alt="Top Languages by Repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p01s0n15&theme=dracula">
     <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p01s0n15&theme=dracula">
 </p>
 <p align="center">
