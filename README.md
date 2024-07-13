@@ -15,7 +15,7 @@
 <h3 align="center">Quick Facts</h3>
 <ul>
     <li>🔭 I am a passionate learner.</li>
-    <li>🕸️ Visit my <a href="https://mehffine.carrd.co">personal website</a>.</li>
+    <li>🕸️ Check out my <a href="https://mehffine.carrd.co">Cardd</a>.</li>
 </ul>
 
 <h3 align="center">GitHub Stats</h3>
